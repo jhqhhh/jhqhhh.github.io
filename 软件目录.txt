@@ -1,0 +1,40 @@
+Python 3.7.4
+Anaconda3
+VS2019
+VSCode
+	C/C++
+	Python
+Git
+DEV C++
+VC 6.0
+Docker
+Compaq Visual Fortran 6
+MD5 (Keil uVision5)
+HBuilder X
+WebStorm
+Mixly
+Fritzing
+CodeBlocks20.03
+chrome
+
+ChangeLog
+	2020-10-14 v10.7
+		chrome
+	2020-10-07 v10.6
+		安装CodeBlocks20.03
+	2020-09-24 v10.5
+		安装Mixly
+		安装Fritzing
+	2020-09-14 v10.4
+		安装HBuilder X
+		安装WebStorm 
+        2020-08-27 v10.3
+                安装MD5 (Keil uVision5)
+	2020-06-01 v10.2
+		安装Compaq Visual Fortran 6
+	2020-02-06 v10.0
+		升级虚拟桌面底层
+	2020-01-06 v1.7
+		升级机房管理系统
+	2019-12-25 v1.6
+		Install Docker
